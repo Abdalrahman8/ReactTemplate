@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Abdalrahman8/ReactTemplate.git/static/css/main.18b29fd7.chunk.css",
-    "main.js": "/Abdalrahman8/ReactTemplate.git/static/js/main.af915dc3.chunk.js",
-    "main.js.map": "/Abdalrahman8/ReactTemplate.git/static/js/main.af915dc3.chunk.js.map",
+    "main.js": "/Abdalrahman8/ReactTemplate.git/static/js/main.fb7c6b97.chunk.js",
+    "main.js.map": "/Abdalrahman8/ReactTemplate.git/static/js/main.fb7c6b97.chunk.js.map",
     "runtime-main.js": "/Abdalrahman8/ReactTemplate.git/static/js/runtime-main.eb2b0d34.js",
     "runtime-main.js.map": "/Abdalrahman8/ReactTemplate.git/static/js/runtime-main.eb2b0d34.js.map",
     "static/js/2.f19c720f.chunk.js": "/Abdalrahman8/ReactTemplate.git/static/js/2.f19c720f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.eb2b0d34.js",
     "static/js/2.f19c720f.chunk.js",
     "static/css/main.18b29fd7.chunk.css",
-    "static/js/main.af915dc3.chunk.js"
+    "static/js/main.fb7c6b97.chunk.js"
   ]
 }
